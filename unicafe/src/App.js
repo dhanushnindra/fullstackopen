@@ -1,3 +1,5 @@
+
+import React from 'react'
 import {useState} from 'react'
 
 const App = () => {
@@ -27,7 +29,7 @@ const App = () => {
             <h3>ALL : {all}</h3>
             <h3>MEAN : {mean}</h3>
             <h3>POSITIVE : {positive}%</h3>
-            {/* <Review review={'GOOD'}/> */}
+            
 
         </div>
 
